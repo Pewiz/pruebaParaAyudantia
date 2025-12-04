@@ -11,3 +11,7 @@
 ### Este es otro text en main
 
 ### Funcionalidad para guardar datos en un txt
+
+### Nueva interfaz para barcos, hecha con gridpane
+
+#### Agregando controladore y métodos para pintar los botones
