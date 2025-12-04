@@ -12,3 +12,5 @@
 
 
 ### Nueva interfaz para barcos, hecha con gridpane
+
+#### Agregando controladore y métodos para pintar los botones
